@@ -1,1 +1,2 @@
 # HackMyt2023
+With the use of the artificial intelligence Chat-Gpt 4, the user can organize and sort it´s medicine intake. The user intelligence is very simple, the medicine, dosis, and schedule which needs to be taken is asked. Afterwards the user can ask for questions regarding what they already registered or about new posible medications. The pill sorter device will be on all the time and will be connected to the world clock to emit an alarm when the dosage needs to be taken, after a user input the pills needed will be prvided.
